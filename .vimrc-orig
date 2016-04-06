@@ -1,0 +1,7 @@
+syntax on
+colorscheme delek
+set wrap
+set tabstop=3
+set autoindent
+set number
+set shiftwidth=4

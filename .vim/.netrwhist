@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/mnt/htdocs/ASSETS/instant-update-cms/CMS/iu-application/config'
+let g:netrw_dirhist_2='/usr/lib/systemd/system'
+let g:netrw_dirhist_3='/mnt/htdocs/concrete-aor/packages/proevents/blocks/pro_event_list/templates/list_ajax'
+let g:netrw_dirhist_4='/home/arkad/backgrounds'
